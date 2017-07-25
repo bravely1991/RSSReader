@@ -1,0 +1,6 @@
+framework module Pods_GCDFetchFeed {
+  umbrella header "Pods-GCDFetchFeed-umbrella.h"
+
+  export *
+  module * { export * }
+}
